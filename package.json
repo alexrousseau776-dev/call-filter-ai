@@ -2,15 +2,14 @@
   "name": "call-filter-ai",
   "version": "1.0.0",
   "main": "Server.js",
-  "license": "MIT",
   "type": "module",
   "scripts": {
     "start": "node Server.js"
   },
   "dependencies": {
-    "@xenova/transformers": "2.14.1",
-    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "twilio": "^4.15.0"
+    "dotenv": "^16.3.1",
+    "twilio": "^4.21.0",
+    "@xenova/transformers": "2.15.1"
   }
 }
