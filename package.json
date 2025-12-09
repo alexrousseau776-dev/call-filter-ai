@@ -1,10 +1,10 @@
 {
   "name": "call-filter-ai",
   "version": "1.0.0",
-  "main": "Server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node Server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
